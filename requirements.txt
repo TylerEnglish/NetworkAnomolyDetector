@@ -1,0 +1,16 @@
+streamlit
+pandas
+numpy
+altair
+matplotlib
+seaborn
+missingno
+plotly
+requests
+wordcloud
+scikit-learn
+pandas_profiling
+xgboost
+torch 
+torchvision 
+torchaudio
